@@ -4,3 +4,4 @@ __pycache__/
 .envdata/heart_disease_uci.csv
 models/HeartDisease_RF.pkl
 data/heart_disease_uci29.xlsx
+data/heart_disease_uci29.xlsx
