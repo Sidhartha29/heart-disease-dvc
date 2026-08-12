@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .venv/
 .envdata/heart_disease_uci.csv
+models/HeartDisease_RF.pkl
